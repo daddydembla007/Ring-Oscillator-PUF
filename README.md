@@ -1,5 +1,5 @@
 This project is made for ES 204 Digital systems course ; the problem statement was to implement physically unclonable function on FPGA board.
-The PUF implemented by us is Ring oscillator PUF ( a delay based PUF Circuit).
+The PUF implemented by  is Ring oscillator PUF ( a delay based PUF Circuit).
 
 ![image](https://github.com/user-attachments/assets/dcde6fb1-c3dc-4db7-8271-9145906db6f8)
 
